@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:/Anaconda3/python",
+    "python.linting.pep8Enabled": true,
+    "jupyter.appendResults": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascript]": {
+        "editor.tabSize": 4
+    },
+    "javascript.validate.enable": false
+}
